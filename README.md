@@ -4,7 +4,7 @@
 Welcome to GREaSE, and thank you for your interest!
 
 This version of the GREaSE model accompanies the original peer-reviewed publication:
-Hopeward, J., Davis, R., O'Connor, S. and Akiki, P. (2025) The Global Renewable Energy and Sectoral Electrification (GREaSE) Model for Rapid Energy Transition Scenarios, Energies 18(9), https://doi.org/10.3390/en18092205
+Hopeward, J., Davis, R., O'Connor, S. and Akiki, P. (2025) The Global Renewable Energy and Sectoral Electrification (GREaSE) Model for Rapid Energy Transition Scenarios, *Energies* 18(9), https://doi.org/10.3390/en18092205
 
 You can download the full paper (free and open access) here:
 https://www.mdpi.com/1996-1073/18/9/2205
